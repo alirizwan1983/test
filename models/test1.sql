@@ -9,7 +9,7 @@ union
 select 3 as id, 'cust3' as custname, '2023-03-03' as loaddate
 union
 
-select 4 as id, 'cust4' as custname, '2023-03-04' as loaddate
+select 4 as id, 'cust4updaterowswithmerge' as custname, '2023-03-04' as loaddate
 union
 
 select 5 as id, 'cust5' as custname, '2023-03-05' as loaddate
